@@ -1,4 +1,5 @@
 import streamlit as st
+st.write("NEW VERSION LOADED")
 import pandas as pd
 import joblib
 
